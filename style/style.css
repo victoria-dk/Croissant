@@ -38,3 +38,7 @@ img {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.email-link {
+  color: wheat;
+}
